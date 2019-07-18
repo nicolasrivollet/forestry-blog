@@ -3,7 +3,7 @@ title: Nicolas Rivollet
 date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
-thumbnail: "/uploads/2019/07/18/38885553530_28063ee54f_o.jpg"
+thumbnail: "/uploads/2019/07/18/fullsizeoutput_19a4.jpeg"
 sub_heading: Administration
 email: nicolas.rivollet@gmail.com
 linkedin: ''
