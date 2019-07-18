@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2019/07/18/8e5fToylTGmSFRNF XdzlQ.jpg"
+banner_image: "/uploads/2019/07/18/fullsizeoutput_19a9.jpeg"
 heading: About me
 sub_heading: ''
 layout: landing-page
