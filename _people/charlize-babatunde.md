@@ -5,7 +5,7 @@ role:
 - staff
 thumbnail: "/uploads/2019/07/18/38347490275_041d3f1363_o.jpg"
 sub_heading: Administration
-email: ''
+email: nicolas.rivollet@gmail.com
 linkedin: ''
 layout: person
 
